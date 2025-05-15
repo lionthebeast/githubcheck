@@ -1,1 +1,2 @@
 feature 03 update from parent
+then update from child
