@@ -1,2 +1,2 @@
-feature 03 update from parent update on commit 2
+feature 03
 then update from child
